@@ -39,10 +39,15 @@ to authorized. This application has some features, which is listed below.***
         * web.xml file
 
 ### Technologies:
-* Injector
-* Servlets
-* Filter
-* SQL
+* JDK 11
+* Maven
+* MySQL
+* Java Servlet API
+* Tomcat
+* JSP
+* Html
+* Dependency Injection
+
     
 ### !!!!To Run Project!!!!
 - use query from init_db.sql to initialise tables in your SQL DataBase
