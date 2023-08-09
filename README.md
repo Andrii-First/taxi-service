@@ -1,4 +1,4 @@
-﻿# :oncoming_taxi: Taxi-service :oncoming_taxi:
+﻿# :oncoming_taxi: TaxiConnect :oncoming_taxi:
 
 ## Project description:
 ___
